@@ -1,11 +1,22 @@
-body {
-  margin: 50px 20%;
-  padding: 0;
-  font-family: 'Roboto';
+@font-face {
+  font-family: 'Gothic';
+  src: url('Gothic.ttf') format('truetype');
 }
 
-.red_text {
-  color: red;
+head {
+  text-align: center;
+  font-family: 'Gothic';
+}
+
+body {
+  text-align: center;
+  margin: 50px 20%;
+  padding: 0;
+  font-family: 'Gothic';
+}
+
+.grey_text {
+  color: #666666;
 }
 
 .big_font {
@@ -29,3 +40,4 @@ body {
   padding: 15px;
   border: 3px solid #222;
 }
+

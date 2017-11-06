@@ -1,18 +1,13 @@
-@font-face {
-  font-family: 'Gothic';
-  src: url('Gothic.ttf') format('truetype');
-}
-
 head {
   text-align: center;
-  font-family: 'Gothic';
+  font-family: 'Roboto', sans-serif;
 }
 
 body {
   text-align: center;
   margin: 50px 20%;
   padding: 0;
-  font-family: 'Gothic';
+  font-family: 'Roboto', sans-serif;
 }
 
 .grey_text {

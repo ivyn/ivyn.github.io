@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Jester</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Clean.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+<div>
+    <div class="container">
+        <div class="row" style="padding: 50px;">
+            <div class="col-md-4 col-lg-9">
+                <p><a href="/">Ivy Nguyen</a></p>
+                <h1>A wearable that allows you to communicate through body language.</h1>
+                <p class="text-monospace">New Media C203 Project</p>
+                <img class="page-img" style="margin-top:32px" src="assets/img/jester/1.png">
+            </div>
+            <div class="col-lg-1" style="margin-left: -32px;"><img class="img-responsive" src="assets/img/line.svg"></div>
+            <div class="col-md-4 col-lg-2" style="margin-left: 25.5px;">
+                <p><a href="/about.html">About</a></p>
+                <p><a href="#work">Work</a></p>
+                <p><a href="#photo">Photo</a></p>
+                <p><a href="mailto:ivyn@berkeley.edu">Email</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="container">
+        <div class="row" style="padding-right: 50px;padding-left: 50px;">
+            <div class="col-md-12 col-lg-9">
+                <p class="text-monospace">Context</p>
+                <p>For this class project, I worked with Aura Barrera, Lili Dai, Elnaz Ta, and Joshua Yuan.</p>
+                <p>Communication is essential, whether it’s through spoken language, text, or body language. For this project, our design goal was to make a wearable that bridges the gap between gestures and meaning, whether that’s for beneficial or sinister purposes.</p>
+                <p>Jester is a wearable that allows the wearer to communicate with other wearers through gestures such as crossed arms or arms down. Users can define mappings between gestures and meanings by repeatedly performing the gesture, which allows the Jester to train using machine learning.</p>
+                <p class="text-monospace"><br>Design Process</p>
+                <p>For our full paper on this project, please refer to <a href="https://docs.google.com/document/d/1QEtP_whGPmCsSMGfUeY4jOuFJyRey83pOqLYiBf9VzU/edit?usp=sharing">this document</a>.</p>
+                <p>Our vision for this wearable is that its gesture tracking functionality would be able to be used in many different contexts. Some ideas include physical therapy tracking or sending a friend multiple choice answers during a test. With this concept in mind, we began with low-fidelity prototypes on paper.</p>
+                <img class="page-img" src="assets/img/jester/2.png">
+                <p><br>Then, we scanned, modeled, and printed the wearable.</p>
+                <img class="page-img" src="assets/img/jester/3.png">
+                <img class="page-img" src="assets/img/jester/4.png">
+                <p class="text-monospace"><br><br>Technological Concept</p>
+                <p>Using IMUs (Inertial Measurement Units), we can gather acceleration vectors in 3 directions, or what we refer to as “gravity vectors.” Integrating acceleration twice yields position, which sounds like a promising find, but with a closed loop system in reality, it is nearly impossible to prevent positional drift in a system of just IMUs.</p>
+                <p>Instead, we have to leverage these gravity vectors as best we can in order to classify certain gestures. So, we picked subtle gestures that would still be able to generate distinct gravity vectors when at their final positions.</p>
+                <img class="page-img" src="assets/img/jester/5.png">
+                <p><br>With these gravity vectors, we can train a machine learning model to predict data points into one of these gestures.</p>
+                <img class="page-img" src="assets/img/jester/6.png">
+            </div>
+            <div class="col"></div>
+        </div>
+    </div>
+</div>
+<div class="footer-clean" style="margin-top: 20px; background-color: #FBFBFB;">
+    <footer>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm-4 col-md-3 col-lg-2 item">
+                    <p><a href="https://instagram.com/ivyhn/">Instagram 1</a></p>
+                </div>
+                <div class="col-sm-4 col-md-3 col-lg-2 item">
+                    <p><a href="https://instagram.com/texturepalette/">Instagram 2</a></p>
+                </div>
+                <div class="col-lg-2">
+                    <p><a href="https://open.spotify.com/user/ivytn/">Spotify</a></p>
+                </div>
+                <div class="col-sm-4 col-md-3 col-lg-2 item">
+                    <p><a href="https://www.linkedin.com/in/ivyhn/">LinkedIn</a></p>
+                </div>
+                <div class="col-lg-3 item social">
+                    <p>Ivy Nguyen © 2019</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+<button onClick="topFunction()" id="scroll">↑</button>
+<script src="assets/js/scroll.js"></script>
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+</body>
+
+</html>

@@ -1,14 +1,14 @@
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
+  btn=document.getElementById("scroll");
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    document.getElementById("scroll").style.display = "block";
+    btn.style.display = "block";
+    btn.addEventListener('click', () => window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    }));
   } else {
-    document.getElementById("scroll").style.display = "none";
+    btn.style.display = "none";
   }
-}
-
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
 }

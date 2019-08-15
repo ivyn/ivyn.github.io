@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Ivy Nguyen</title>
-    <link rel="icon" type="png" href="assets/img/favicon.png"/>
+    <link rel="icon" type="png" href="assets/img/favicon.jpeg"/>
     <link rel="stylesheet" href="assets/css/footer.css">
     <link rel="stylesheet" href="assets/css/styles.css">
-    <script type="text/javascript" src="/node_modules/paper/dist/docs/assets/js/paper.js"></script>
+    <script type="text/javascript" src="node_modules/paper/dist/paper-full.min.js"></script>
     <script type="text/paperscript" canvas="myCanvas">
         var values = {
             paths: 50,
@@ -108,23 +108,23 @@
                     <p>Ivy Nguyen<br><br></p>
                     <p>Product manager looking to make cool things with cool people.<br><br>Playing around with pixels and code at UC Berkeley.</p>
                 </div>
-                <div class="col-lg-1" style="margin-right: 15px;margin-left: 25px;"><img class="img-responsive" src="assets/img/line.svg"></div>
+                <div class="col-lg-1" style="margin-right: 15px;margin-left: 25px;"><img class="hide-mobile" src="assets/img/line.svg"></div>
                 <div class="col-md-3 col-lg-5">
                     <canvas id="myCanvas" width="403" height="500"></canvas>
                     <p class="text-monospace" style="font-size: 12px">drag to distort</p>
                 </div>
-                <div class="col-md-3 col-lg-1" style="margin-right: 25px;margin-left: 15px;"><img class="img-responsive" src="assets/img/line.svg"></div>
-                <div class="col-md-3 col-lg-2">
+                <div class="col-md-3 col-lg-1" style="margin-right: 25px;margin-left: 15px;"><img class="hide-mobile" src="assets/img/line.svg"></div>
+                <div class="col-md-3 col-lg-2 hide-mobile">
                     <p><a href="/about">About</a></p>
-                    <p><a href="#work">Work</a></p>
-                    <p><a href="#photo">Photo</a></p>
+                    <p><a href="https://instagram.com/ivyhn">Instagram</a></p>
+                    <p><a href="https://open.spotify.com/user/ivytn/">Spotify</a></p>
                     <p><a href="mailto:ivyn@berkeley.edu">Email</a></p>
                 </div>
             </div>
         </div>
     </div>
     <div class="container">
-        <h2 class="text-monospace" style="margin-left: 35px;margin-top: 100px;padding-right: 15px;padding-left: 15px;">Select Work</h2>
+        <h2 class="text-monospace" id="work" style="margin-left: 35px;margin-top: 100px;padding-right: 15px;padding-left: 15px;">Select Work</h2>
     </div>
     <div>
         <div class="container">
@@ -174,7 +174,7 @@
         </div>
     </div>
     <div class="container">
-        <h2 class="text-monospace" style="margin-left: 35px;margin-top: 100px;padding-right: 15px;padding-left: 15px;">Photo Series</h2>
+        <h2 class="text-monospace" id="photo" style="margin-left: 35px;margin-top: 100px;padding-right: 15px;padding-left: 15px;">Photo Series</h2>
     </div>
     <div>
         <div class="container">
@@ -201,29 +201,6 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="footer-clean" style="margin-top: 20px; background-color: #FBFBFB;">
-        <footer>
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-sm-4 col-md-3 col-lg-2 item">
-                        <p><a href="https://instagram.com/ivyhn/">Instagram 1</a></p>
-                    </div>
-                    <div class="col-sm-4 col-md-3 col-lg-2 item">
-                        <p><a href="https://instagram.com/texturepalette/">Instagram 2</a></p>
-                    </div>
-                    <div class="col-lg-2">
-                        <p><a href="https://open.spotify.com/user/ivytn/">Spotify</a></p>
-                    </div>
-                    <div class="col-sm-4 col-md-3 col-lg-2 item">
-                        <p><a href="https://www.linkedin.com/in/ivyhn/">LinkedIn</a></p>
-                    </div>
-                    <div class="col-lg-3 item social">
-                        <p class="text-right">Ivy Nguyen © 2019</p>
-                    </div>
-                </div>
-            </div>
-        </footer>
     </div>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>

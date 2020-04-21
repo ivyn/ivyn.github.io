@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Samsara</title>
+    <link rel="icon" type="png" href="../assets/img/favicon.jpeg"/>
+    <link rel="stylesheet" href="../assets/css/styles.css">
+</head>
+
+<body>
+<div>
+    <div class="container">
+        <div class="row" style="padding: 50px;">
+            <div class="col-md-4 col-lg-9">
+                <p><a href="/">Ivy Nguyen</a></p>
+                <h1>Improving the navigation experience for long-haul truck drivers.</h1>
+                <p class="text-monospace">Consulting Project</p>
+                <img class="page-img" style="margin-top:32px" src="../assets/img/samsara/IMG_9737.jpg">
+            </div>
+            <div class="col-lg-1" style="margin-left: -32px;"><img class="hide-mobile" src="../assets/img/line.svg"></div>
+            <div class="col-md-4 col-lg-2 hide-mobile" style="margin-left: 25.5px;">
+                <p><a href="/about">About</a></p>
+                <p><a href="https://instagram.com/ivyhn">Instagram</a></p>
+                <p><a href="https://open.spotify.com/user/ivytn/">Spotify</a></p>
+                <p><a href="mailto:ivyn@berkeley.edu">Email</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="container">
+        <div class="row" style="padding-right: 50px;padding-left: 50px;">
+            <div class="col-md-12 col-lg-9">
+                <p class="text-monospace">Context</p>
+                <p>The trucking industry is a powerful force that drives the U.S. economy. Businesses depend on the transportation of freight from warehouses to stores and homes.</p>
+                <p>Samsara is the leader in industrial IoT. Their mission is to improve the safety, efficiency, and productivity of the operations that power our economy.</p>
+                <p>In the spring of 2020, I worked with Dylan Lew, Phoebe Lin, and Zaid Syed to design turn-by-turn navigation that integrates with U.S. work hour regulation systems for Samsara's truck driver app.</p>
+                <p class="text-monospace"><br>The Problem</p>
+                <p>Truckers are constrained to their truck cabin for hours at a time, which can take a toll on their well-being. Their hours of service are restricted by federal regulations, so they must be able to find rest stops at specific times.</p>
+                <p class="text-monospace"><br><br>How Might We...</p>
+                <p><font color="#008001">navigate</font>: expand the Samsara driver app to include turn-by-turn navigation<br><font color="#008001">find</font>: help drivers find rest stops along their routes<br><font color="#008001">integrate</font>: allow drivers to seamlessly keep track of their hours of service</p>
+                <p class="text-monospace"><br><br>User Research</p>
+                <img class="page-img" src="../assets/img/samsara/map.png">
+                <p><br>Because we were unfamiliar with the trucking industry, we did secondary research to inform ourselves and get a solid background before talking to truck drivers.</p>
+                <p>Drivers operate on 4 clocks with strict penalties for violations:</p>
+                <p><font color="#008001">drive</font>: maximum of 11 hours of driving after a 10 hour break<br><font color="#008001">break</font>: 30 minutes of rest for every 8 hours of driving<br><font color="#008001">shift</font>: 10 hour break after driving for 14 consecutive hours<br><font color="#008001">cycle</font>: 34 hour break after driving for 60 hours over 7 days</p>
+                <p>This lifestyle can make it difficult for drivers to maintain their health, diet, relationships, and other areas of well-being.</p>
+                <p>We went to the Samsara office in San Francisco to work with Merlyn Fraga, a senior researcher who guided us. She taught us about activities and questions that use projective techniques, which let a person respond to ambiguous stimuli, presumably revealing hidden emotions and internal conflicts projected by the person onto the test.</p>
+                <img class="page-img" src="../assets/img/samsara/arc.png">
+                <p><br>For our first round of user testing, we went to the SF Oakland Truck Stop. Photos by me.</p>
+                <img class="page-img" src="../assets/img/samsara/IMG_9742.jpg"/>
+                <img class="page-img" src="../assets/img/samsara/IMG_9728.jpg"/>
+                <p class="text-monospace"><br><br>Synthesis</p>
+                <p>We created categories based on how often truckers mentioned the pain points, and organized our findings under them. Points from rest stop workers are shown in dark grey cards.</p>
+                <img class="page-img" src="../assets/img/samsara/affinity.png"/>
+                <p><br>We compiled our most compelling findings into insights. We chose to design around the 2 categories that had the most potential for impact.</p>
+                <img class="page-img" src="../assets/img/samsara/insights.png"/>
+                <p class="text-monospace"><br><br>Low Fidelity Prototype</p>
+                <p>We brainstormed solutions around food, parking, and finding rest stops. We each fleshed out product goals and ideas based on the user needs.</p>
+                <img class="page-img" src="../assets/img/samsara/low.png"/>
+                <p class="text-monospace"><br><br>Strategic Framing and Competitive Analysis</p>
+                <p><br>During ideation, we identified 4 product goals:</p>
+                <ul>
+                    <li>Help truckers find rest stops by communicating relevant information about food options, parking, gas, and related pricing</li>
+                    <li>Integrate with ELD system to optimize travel for maximum driving time</li>
+                    <li>Be accessible to drivers, who are often not tech-savvy</li>
+                    <li>Offer an audio experience or simplified design while driving</li>
+                </ul>
+                <p>Our solution is turn-by-turn navigation that displays roads accessible to 18-wheelers and a search function that allows truck drivers to find rest stops with preferred amenities along their routes.</p>
+                <ul>
+                    <li><font color="#008001">Business Incentive</font>: These features expand the Samsara ecosystem to make the product more desirable to fleet administrators who want to keep their truck drivers happy.</li>
+                    <li><font color="#008001">Market Share</font>: ELD integration with navigation is an untouched market. Currently, drivers have to use one app to keep track of their time and a separate device for trucker-specific navigation.</li>
+                    <li><font color="#008001">User Impact</font>: Finding the right rest stop improves the quality of life for truck drivers who need specific amenities.</li>
+                </ul>
+                <img class="page-img" src="../assets/img/samsara/current.png"/>
+                <p><br>Current options have a disconnect between navigation and ELD. Google Maps, Apple Maps, and Waze display roads that are not accessible to 18-wheelers.</p>
+                <p class="text-monospace"><br><br>Mid Fidelity Prototype</p>
+                <img class="page-img" src="../assets/img/samsara/mid.png"/>
+                <p class="text-monospace"><br><br>High Fidelity Prototype</p>
+                <p>Thank you to Samsara Product Designers Emily White, Andrew Watterson, Bec Lai, Ishaan Kansal, and Stephen Kui for their continual feedback on our iterations. We met with them once a week, and they constantly pushed us to consider different perspectives and defend our design decisions.</p>
+                <p class="text-monospace"><br><br>ITERATIONS</p>
+                <img class="page-img" src="../assets/img/samsara/iterations.png"/>
+                <p class="text-monospace"><br><br>TURN-BY-TURN NAVIGATION</p>
+                <img class="page-img" src="../assets/img/samsara/high1.png"/>
+                <p class="text-monospace"><br><br>SEARCH AND FILTER</p>
+                <img class="page-img" src="../assets/img/samsara/high2.png"/>
+                <p class="text-monospace"><br><br>REST STOP DETAILS</p>
+                <img class="page-img" src="../assets/img/samsara/high3.png"/>
+                <p class="text-monospace"><br><br>Engineering Constraints</p>
+                <p>For these experimental features, we wanted to use existing APIs and SDKs to quickly build the features and test its business value.
+                   <a href="https://www.mapbox.com/use-cases/turn-by-turn-navigation/">Mapbox</a> offers satellite views and turn-by-turn instructions.
+                   The <a href="https://www.yelp.com/developers/documentation/v3/get_started">Yelp API</a> provides reviews, search results, and specific stop details.</p>
+                <p class="text-monospace"><br><br>Usability Testing</p>
+                <p>Due to COVID-19, we were unable to go to a rest stop to conduct usability testing in person. However, we were able to do a 45-minute video call with Nino M., a truck driver.</p>
+                <img class="page-img" src="../assets/img/samsara/nino.png"/>
+                <p><br>[To be continued] UNDER CONSTRUCTION</p>
+            </div>
+            <div class="col"></div>
+        </div>
+    </div>
+</div>
+<div style="margin-top: 120px"></div>
+<button id="scroll">↑</button>
+<script src="../assets/js/scroll.js"></script>
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../assets/js/bootstrap.min.js"></script>
+</body>
+
+</html>

@@ -1,118 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="53cd0c77-fa23-4aa0-8d59-3817b61d6700" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/samsara/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/clorox/poster.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/clorox/poster.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/jester/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jester/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/jester/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/jester/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_2275.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_2275.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_2387.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_2387.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_2824.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_2824.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_3166.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_3166.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_3394.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_3394.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_3835.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_3835.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_4155.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_4155.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_4639.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_4639.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_5229.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_5229.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_6381.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_6381.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_7474.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_7474.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/koros/IMG_9021.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/koros/IMG_9021.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/line.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/line.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/lyft/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/lyft/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/lyft/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/lyft/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/lyft/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/lyft/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_0953.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_0953.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_1605.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_1605.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_1621.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_1621.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_1699.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_1699.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_1729.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_1729.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_1784.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_1784.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_1958.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_1958.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_2258.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_2258.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_2418.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_2418.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_2646.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_2646.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_3357.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_3357.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_4607.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_4607.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_4616.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_4616.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_5596.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_5596.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_6295.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_6295.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_7610.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_7610.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_8532.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_8532.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/self/IMG_8996.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/self/IMG_8996.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/texture/IMG_0159.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/texture/IMG_0159.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/texture/IMG_0166.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/texture/IMG_0166.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/texture/IMG_0262.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/texture/IMG_0262.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/texture/IMG_1046.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/texture/IMG_1046.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/texture/IMG_3156.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/texture/IMG_3156.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/texture/IMG_4613.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/texture/IMG_4613.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/texture/IMG_6847.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/texture/IMG_6847.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/texture/IMG_8558.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/texture/IMG_8558.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/texture/IMG_9924.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/texture/IMG_9924.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/google/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clorox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/clorox/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/texture/index.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="ivyn.github.io" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1815">
-              <caret line="121" selection-start-line="121" selection-end-line="121" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13213" selection-start-column="13213" selection-end-column="13213" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>768</find>
       <find>992</find>
       <find>1200</find>
       <find>fix</find>
@@ -142,142 +67,23 @@
       <find>.row</find>
       <find>show</find>
       <find>canvas</find>
+      <find>900</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/css.css" />
-        <option value="$PROJECT_DIR$/assets/bootstrap/css/arnvodjfs.css" />
-        <option value="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/scroll.js" />
-        <option value="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/jester.html" />
-        <option value="$PROJECT_DIR$/koros.html" />
-        <option value="$PROJECT_DIR$/lyft.html" />
-        <option value="$PROJECT_DIR$/mcafee.html" />
-        <option value="$PROJECT_DIR$/self.html" />
-        <option value="$PROJECT_DIR$/texture.html" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/clorox.html" />
-        <option value="$PROJECT_DIR$/google.html" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/assets/js/scroll.js" />
-        <option value="$PROJECT_DIR$/clorox/index.html" />
-        <option value="$PROJECT_DIR$/jester/index.html" />
-        <option value="$PROJECT_DIR$/koros/index.html" />
-        <option value="$PROJECT_DIR$/lyft/index.html" />
-        <option value="$PROJECT_DIR$/mcafee/index.html" />
-        <option value="$PROJECT_DIR$/texture/index.html" />
-        <option value="$PROJECT_DIR$/google/index.html" />
-        <option value="$PROJECT_DIR$/self/index.html" />
-        <option value="$PROJECT_DIR$/about/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/styles.css" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="428" />
-    <option name="y" value="23" />
-    <option name="width" value="1012" />
-    <option name="height" value="797" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="clorox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="jester" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="koros" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="lyft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="mcafee" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="self" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ivyn.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ivyn.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="texture" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1aonosQw8RgsKZRgungXW6Tda8Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567582659624" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567583090398" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -289,210 +95,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565475027601</updated>
+      <workItem from="1587410993745" duration="10493000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13733906" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" weight="0.3295063" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Style Checker" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css.css" />
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/arnvodjfs.css" />
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" />
-    <entry file="file://$PROJECT_DIR$/scroll.js" />
-    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css" />
-    <entry file="file://$PROJECT_DIR$/assets/css/Footer-Clean.css" />
-    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jester.html" />
-    <entry file="file://$PROJECT_DIR$/koros.html" />
-    <entry file="file://$PROJECT_DIR$/lyft.html" />
-    <entry file="file://$PROJECT_DIR$/mcafee.html" />
-    <entry file="file://$PROJECT_DIR$/self.html" />
-    <entry file="file://$PROJECT_DIR$/texture.html" />
-    <entry file="file://$PROJECT_DIR$/about.html" />
-    <entry file="file://$PROJECT_DIR$/clorox.html" />
-    <entry file="file://$PROJECT_DIR$/google.html" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/aetfg.css" />
-    <entry file="file://$PROJECT_DIR$/assets/css/footer.css" />
-    <entry file="file://$PROJECT_DIR$/assets/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clorox/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jester/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koros/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mcafee/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/texture/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/scroll.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="3" lean-forward="true" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="255" selection-start-line="45" selection-start-column="255" selection-end-line="45" selection-end-column="255" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/self/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lyft/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13213" selection-start-column="13213" selection-end-column="13213" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="masterDetails">
     <states>

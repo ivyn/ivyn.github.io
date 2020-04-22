@@ -10,11 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53cd0c77-fa23-4aa0-8d59-3817b61d6700" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/samsara/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clorox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/clorox/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/google/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jester/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jester/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/paper/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/js/paper/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koros/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/koros/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lyft/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lyft/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcafee/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mcafee/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samsara/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/samsara/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/self/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/self/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/texture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/texture/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,40 +42,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>992</find>
-      <find>1200</find>
-      <find>fix</find>
-      <find>img</find>
-      <find>flex</find>
-      <find>Moder</find>
-      <find>font-face</find>
-      <find>SF</find>
-      <find>Modera</find>
-      <find>scroll</find>
-      <find>work</find>
-      <find>photo</find>
-      <find>footer</find>
-      <find>600</find>
-      <find>node</find>
-      <find>800</find>
-      <find>hide-</find>
-      <find>hide</find>
-      <find>font</find>
-      <find>ul</find>
-      <find>li</find>
-      <find>talente</find>
-      <find>container</find>
-      <find>Click</find>
-      <find>friend</find>
-      <find>mono</find>
-      <find>.row</find>
-      <find>show</find>
-      <find>canvas</find>
-      <find>900</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -84,6 +56,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567583090398" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -95,12 +69,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565475027601</updated>
-      <workItem from="1587410993745" duration="10493000" />
+      <workItem from="1587410993745" duration="10830000" />
+      <workItem from="1587509881957" duration="5663000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="60" key="SettingsEditor" timestamp="1587512729627">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="229" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1587512729627" />
   </component>
   <component name="masterDetails">
     <states>
